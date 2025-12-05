@@ -35,24 +35,5 @@ Ce projet est basé sur un atelier pratique visant à comprendre et appliquer le
 
 ---
 
-## 📁 Structure du projet
-
-```
-SecureAPI_JWT/
-│── Controllers/
-│     └── AuthController.cs
-│── Models/
-│     ├── ApplicationUser.cs
-│     ├── AuthModels.cs
-│     ├── RoleModels.cs
-│── Services/
-│     ├── IAuthService.cs
-│     └── AuthService.cs
-│── Helpers/
-│     └── JWT.cs
-│── appsettings.json
-│── Program.cs
-│── SecureAPI_JWT.csproj
-```
 
 
